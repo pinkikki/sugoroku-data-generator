@@ -1,0 +1,1 @@
+INSERT INTO face (stage_id, no, row, column, type) VALUES ({{ stage_id }}, {{ no }}, {{ row }}, {{ column }}, '{{ type }}');
